@@ -52,6 +52,8 @@ SQL injection remains one of the most common vulnerabilities in modern web syste
 | Decision Tree        | 0.92     | 0.91     |
 | Logistic Regression  | 0.91     | 0.90     |
 
+![Model Performance](Images/output.png)
+
 > 📈 *Gradient Boosting outperformed all other models and demonstrated robust generalisation on adversarial queries.*
 
 ---
