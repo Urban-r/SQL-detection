@@ -30,7 +30,6 @@ SQL injection remains one of the most common vulnerabilities in modern web syste
 | Visualisation      | Matplotlib, Seaborn                 |
 | Text Processing    | TF-IDF (via `TfidfVectorizer`)      |
 | Version Control    | Git & GitHub                        |
-| Deployment         | GitHub Pages                        |
 
 ---
 
